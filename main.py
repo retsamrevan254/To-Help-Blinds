@@ -1,1 +1,2 @@
-pirnt("I am Ironman!")
+print("I am NOT Ironman!")
+print("But you are Ironman!")
